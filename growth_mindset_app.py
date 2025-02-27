@@ -28,7 +28,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-st.markdown("<h1 class='title'>Growth Mindset App</h1>", unsafe_allow_html=True)
+st.markdown("<h1 class='title'>Growth Mindset App created by Mudasir Ali</h1>", unsafe_allow_html=True)
 
 st.markdown("""
 <div class="section">
